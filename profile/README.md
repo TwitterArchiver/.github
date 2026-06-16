@@ -2,7 +2,7 @@
 
 > 让每一个声音，都不会在网络里消散。
 
- [全站时间线](https://twitterarchiver.github.io/home/search.html)
+ [全站时间线](https://twitterarchiver.github.io/home/search.html) · [Home](https://twitterarchiver.github.io/home/)
 ---
 
 ## 这里是什么
